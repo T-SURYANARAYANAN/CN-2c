@@ -74,10 +74,10 @@ c.close()
 ### server:
 
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/2f9c24d1-05d9-42f5-b9bb-036f99309cb9)
 ### client
 
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/de108169-6d84-434a-b1e4-661fcdbbff76)
 
 
 ## PROGRAM - RARP
@@ -135,10 +135,10 @@ c.close()
 ## OUTPUT -RARP
 
 ### server
-![alt text](image-3.png)
+![image](https://github.com/user-attachments/assets/b013b6f6-c9ae-49ae-abf2-15e20b37205e)
 ### client
 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/e1c791b1-8618-40d3-af57-11acbdf6e020)
 ## RESULT
 Thus, the python program for simulating ARP protocols using TCP was successfully 
 executed.
